@@ -44,24 +44,6 @@ pnpm i
 ## 说明
 > 喜欢的话给个Star吧，爱你呦，么么哒![Alt text](./resources/readme/3835E2DA.png)
 
-## 赞助
-
-如果觉得本项目好玩或者对你有帮助，愿意的话可以赞助我一口快乐水：
-
-https://afdian.net/a/hanhanbeea
-
-## 贡献者
-
-<!-- readme: collaborators,contributors -start -->
-感谢以下贡献者
-
-<a href="https://github.com/hanhan258/hanhan-plugin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hanhan258/hanhan-plugin" />
-</a>
-
-<!-- readme: collaborators,contributors -end -->
-
-![Alt](https://repobeats.axiom.co/api/embed/2f1eeaa9fd7a3e6507891b6405a3e1ef31877bb3.svg "Repobeats analytics image")
 
 ## Star History
 
