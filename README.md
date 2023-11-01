@@ -2,7 +2,7 @@
 # hanhan-plugin
 ## 你不让我们用bot的居心何在？
 
-我们的宗旨就是摆就完事了。
+##摆就完事了。
 
 支持Yunzai-Bot、Miao-Yunzai和TRSS-Yunzai
 
